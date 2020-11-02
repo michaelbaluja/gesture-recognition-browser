@@ -2,3 +2,10 @@
 x_test.npy
 *.png
 *.npy
+*.JPG
+dataset/Backgrounds/Thumbs.db
+dataset/Hand Postures with human noise/Thumbs.db
+dataset/Hand Postures/Thumbs.db
+*.pb
+*.data-00000-of-00001
+*.index
